@@ -9,9 +9,9 @@
 title: moduloMoments
 email: rdbruhn@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I’m a student of software engineering tackling as many coding experiences as I can in preparation of a new career. I’ll be graduating form Hack Reactor Remote on May 28th, 2016 and I’m always trying to find new ways to learn about the world of coding. This blog is a place where I’ll share a little of my experience in Hack Reactor, using other online resources, and concepts I’m learning in software engineering. Thanks for visiting!
+  A software engineering blog by Rob Bruhn
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "rdbruhn.github.io" # the base hostname & protocol for your site
+url: "moduloMoments.com/blog" # the base hostname & protocol for your site
 twitter_username: robbruhn
 github_username:  rdbruhn
 
