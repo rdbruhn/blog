@@ -3,6 +3,7 @@ layout: post
 title:  "Jekyll and More"
 date:   2016-02-09
 categories: Prototypes
+comments: true
 ---
 
 I spent last night building this new blog using jekyll and github pages. I migrated over the post data and hope to begin tweaking the styles and features a lot more going forward. The setup process was helpful and got me used the command line a bit more. I'm looking forward to being able to customize the site more than the wordpress.com site I had before. 
