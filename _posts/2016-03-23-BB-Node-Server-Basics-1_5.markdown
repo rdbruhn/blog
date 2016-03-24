@@ -6,13 +6,13 @@ categories: Back end, node, basics, url
 comments: true
 ---
 
-This morning I wrote about setting up a basic server and how to build a very basic response to a 'GET' request using the 'http' module that is part of the node library. Tonight, I'm goint to take a brief look at another useful module, 'url', which helps break apart a url and route your requests to the proper location.
+This morning I wrote about setting up a basic server and how to build a very basic response to a 'GET' request using the 'http' module that is part of the node library. Tonight, I'm going to take a brief look at another useful module, 'url', which helps break apart a url and route your requests to the proper location.
 
-"url" is incredibly useful for a number of reasons, but I'm going to focus on one for the time being. To use the module, you must first require like so:
+"url" is incredibly useful for a number of reasons, but I'm going to focus on one for the time being. To use the module, you must first require it like so:
 {% highlight javascript %}
 var url = require("url");
 {% endhighlight %}
-You can then have access to a few helpful method one of which is .parse. This is the one we will look at in this post. url.parse() returns on object with a number of properties based on the url that is attached to a request. Every request has a .url property and often contains important information that will need to be read and handled by the server.
+You then have access to a few helpful methods, one of which is .parse. This is the one we will look at in this post. url.parse() returns an object with a number of properties based on the url that is attached to a request. Every request has a .url property and often contains important information that will need to be read and handled by the server.
 
 To access this information in the handler you would need to write something like this:
 {% highlight javascript %}
@@ -44,4 +44,4 @@ var pathname = parsedUrl.pathname;
 //pathname = "/pictures/friends"
 {% endhighlight %}
 
-"url" has a few other useful methods like formatting a string from an object (reversing parse), but this pasic parse function will be very helpful in building our basic node server in the coming days!
+"url" has a few other useful methods like formatting a string from an object (reversing parse), but this basic parse function will be very helpful in building our basic node server in the coming days!
