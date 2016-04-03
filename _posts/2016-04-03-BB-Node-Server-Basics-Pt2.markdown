@@ -6,7 +6,7 @@ categories: Back end, node, basics
 comments: true
 ---
 
-The server we built last week had the simple ability to post "Hello World" to the browser window, but what if you wanted to return something more complicated or send data to a database? This would require some sort of method that handles a variety of http requests. Thankfully, Node has the ability to take specific requests and handle them in a variety of ways. We'll look at three today, 'GET', 'POST', and 'OPTIONS'.
+The server we built last week had the simple ability to post "Hello World" to the browser window, but what if you wanted to return something more complicated or send data to a database? This would require some sort of method that handles a variety of http requests. Thankfully, in Node we have the ability to take specific requests and handle them in a variety of ways. We'll look at three today, 'GET', 'POST', and 'OPTIONS'.
 
 Node is a RESTful API exactly because it can handle common http requests. In order to handle those requests, we'll need to build up our request handler and give it access to specific actions. Those actions will be stored in a separate reference object like so:
 {% highlight javascript %}
