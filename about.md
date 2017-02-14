@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I’m a student of software engineering tackling as many coding experiences as I can in preparation of a new career. I’ll be graduating form Hack Reactor Remote on May 28th, 2016 and I’m always trying to find new ways to learn about the world of coding. This blog is a place where I’ll share a little of my experience in Hack Reactor, using other online resources, and concepts I’m learning in software engineering. Thanks for visiting!
+I'm a software engineer with a strong foundation in Javascript. I have built, enhanced, and deployed applications using technologies including Angular, Backbone, Node, Express, MongoDB, RethinkDB and MySQL. I've rebuilt UIs, helped launch a Backend-as-a-Service platform, and I am quick to learn whatever tool or framework is needed for a given challenge. I enjoy Agile development and solving complex problems in a team environment.

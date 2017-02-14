@@ -3,6 +3,7 @@ layout: post
 title:  "Preparing and Prototypes"
 date:   2016-01-27
 categories: Prototypes
+comments: true
 ---
 
 Another week of preparation down in the weeks leading to Hack Reactor Remote! I'm working through all the required material and building a plan for the last month before complete immersion.

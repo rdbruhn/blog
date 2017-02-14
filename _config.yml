@@ -10,8 +10,8 @@ title: moduloMoments
 email: rob@modulomoments.com
 description: > # this means to ignore newlines until "baseurl:"
   A software engineering blog by Rob Bruhn
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "moduloMoments.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "rdbruhn.github.io" # the base hostname & protocol for your site
 twitter_username: robbruhn
 github_username:  rdbruhn
 
